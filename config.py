@@ -28,7 +28,7 @@ OWNER = os.environ.get("OWNER", "Miss_India_Here")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7813704601"))
 
 #Port
-PORT = os.environ.get("PORT", "8030")
+PORT = os.environ.get("PORT", "8000")
 
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "")
